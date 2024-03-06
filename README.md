@@ -9,7 +9,7 @@
  | [GPT: Improving Language Understanding by Generative Pre-Training](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf) |  | '18 | NLP | 이하준 |
  | [Pointer Networks](https://proceedings.neurips.cc/paper_files/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html) | NeurIPS | '15 | | 김현우 |
  | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) |  | '23 | NLP | 김수 | [📎](data/LLaMA.pdf) |
- | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864&hl=ja&sa=X&ei=5B0dZcHLGJ2h6rQPweSL0A0&scisig=AFWwaebUGjvb4JBysy2Z1l7aHWfJ&oi=scholarr) |  | '21' | NLP | 윤세환 |
+ | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864&hl=ja&sa=X&ei=5B0dZcHLGJ2h6rQPweSL0A0&scisig=AFWwaebUGjvb4JBysy2Z1l7aHWfJ&oi=scholarr) |  | '21 | NLP | 윤세환 |
  | [Donut: Document Understanding Transformer without OCR](https://sangdooyun.github.io/data/kim2021donut.pdf) | ECCV | '22 | CV | 김나훈 | [📎](data/presentation_donut.pdf) | 
  | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper) | ICCV | '21 | CV | 임동주 |
  | [Flamingo: A Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) | NeurIPS | '22 | NLP | 이하준 | 
