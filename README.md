@@ -1,6 +1,6 @@
 # presentation
 
-|<center>논문제목</center>|<center>학회</center>|<center>연도</center>|<center>분야</center>|<center>빌표자</center>|<center>발표자료</center>|<center>참고자료</center>|
+|논문제목|<center>학회</center>|<center>연도</center>|<center>분야</center>|<center>빌표자</center>|<center>발표자료</center>|<center>참고자료</center>|
 |:---|---|---|---|---|---|---|
 |[Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)|NeurIPS|'17|NLP|
 |[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929)|ICLR|'21|CV|
