@@ -18,5 +18,6 @@
  | [ODIN: Enhancing the Reliability of Out-of-Distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) | ICLR | '18 | OOD | 김나훈 | [📎](data/presentation_odin.pdf) | 
  | [Image Style Transfer using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR | '16 | CV | 윤세환 |
  | [wav2vec2.0: A Framework for Self-Supervised Learning of Speech Representations](https://proceedings.neurips.cc/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html) | NeurIPS | '20 | SR | 김수 | [📎](data/Wav2vec%202.0.pdf) |
-  | [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/pdf/2305.01937.pdf) |  | '23 | NLP | 이하준 |  |
+ | [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/pdf/2305.01937.pdf) |  | '23 | NLP | 이하준 |  |
+ | [Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895.pdf)) | AAAI | '19 | TTS | 임동주 |  |
  | [논문제목](#) | 학회 | '연도 | 분야 | 발표자 | 발표자료 | 참고자료 |
