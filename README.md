@@ -3,7 +3,7 @@
 
  | Paper | Conference | Year | Task | Presenter | Presentation | References |
  |:---|:---:|:---:|:---:|:---:|:---:|:---:|
- | [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | NeurIPS | '17 | NLP | 임동주 | [📎](data/Attention is All You Need.pdf)|
+ | [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | NeurIPS | '17 | NLP | 임동주 | [📎](data/Attention%20is%20All%20You%20Need.pdf)|
  | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929) | ICLR | '21 | CV | 김나훈 | [📎](data/presentation_vit.pdf) | 
  | [BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v2) | NAACL | '19 | NLP | 윤세환 |
  | [GPT: Improving Language Understanding by Generative Pre-Training](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf) |  | '18 | NLP | 이하준 |
