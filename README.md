@@ -20,4 +20,5 @@
  | [wav2vec2.0: A Framework for Self-Supervised Learning of Speech Representations](https://proceedings.neurips.cc/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html) | NeurIPS | '20 | SR | 김수 | [📎](data/Wav2vec%202.0.pdf) |
  | [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/pdf/2305.01937.pdf) |  | '23 | NLP | 이하준 | [📎](data/LLMEvaluation.pdf)|
  | [Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895.pdf) | AAAI | '19 | TTS | 임동주 | [📎](data/Neural_Speech_Synthesis_with_Transformer_Network.pdf) |
+ | [Building robust Korean speech recognition model by fine-tuning large pretrained model](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2023.15.3.075) | ETRI | '23 | STT | 최갑주 | [📎]() |
  | [논문제목](#) | 학회 | '연도 | 분야 | 발표자 | 발표자료 | 참고자료 |
