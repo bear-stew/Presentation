@@ -25,4 +25,5 @@
  | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | NeurIPS | '20 | CV | 윤세환 | [📎](data/Denoising%20Diffusion%20Probabilistic%20Models.pdf) |
  | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | Openai | '21 | CV | 이하준 | [📎](data/CLIP.pdf) |
  | [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) |  | '22 | SR | 김수 | [📎](data/Whisper.pdf) |
+ | [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](https://arxiv.org/pdf/2201.07284.pdf) |  | '22 | Anomaly Detection | 임동주 | 📎 |
  | [논문제목](#) | 학회 | '연도 | 분야 | 발표자 | 발표자료 | 참고자료 |
