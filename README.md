@@ -17,13 +17,13 @@
  | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) | EMNLP | '19 | NLP | 임동주 | [📎](data/Sentence_Bert.pdf) |
  | [ODIN: Enhancing the Reliability of Out-of-Distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) | ICLR | '18 | OOD | 김나훈 | [📎](data/presentation_odin.pdf) | 
  | [Image Style Transfer using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR | '16 | CV | 윤세환 | [📎](data/Image%20Style%20Transfer%20Using%20Convolutional%20Neural%20Networks.pdf) | 
- | [wav2vec2.0: A Framework for Self-Supervised Learning of Speech Representations](https://proceedings.neurips.cc/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html) | NeurIPS | '20 | SR | 김수 | [📎](data/Wav2vec%202.0.pdf) |
+ | [wav2vec2.0: A Framework for Self-Supervised Learning of Speech Representations](https://proceedings.neurips.cc/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html) | NeurIPS | '20 | STT | 김수 | [📎](data/Wav2vec%202.0.pdf) |
  | [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/pdf/2305.01937.pdf) |  | '23 | NLP | 이하준 | [📎](data/LLMEvaluation.pdf)|
  | [Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895.pdf) | AAAI | '19 | TTS | 임동주 | [📎](data/Neural_Speech_Synthesis_with_Transformer_Network.pdf) |
  | [Building robust Korean speech recognition model by fine-tuning large pretrained model](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2023.15.3.075) | 한국음성학회지 | '23 | STT | 최갑주 | [📎](https://github.com/bear-stew/Presentation/blob/main/data/Korean%20speech%20recognition%20model%20by%20fine-tuning.pdf) |
  | [Make-A-Video: Text-to-Video Generation withou Text-Video Data](https://arxiv.org/abs/2209.14792) | | '22 | CV | 김나훈 | [📎](data/Make-A-Video.pdf) |
  | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | NeurIPS | '20 | CV | 윤세환 | [📎](data/Denoising%20Diffusion%20Probabilistic%20Models.pdf) |
  | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | Openai | '21 | CV | 이하준 | [📎](data/CLIP.pdf) |
- | [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) |  | '22 | SR | 김수 | [📎](data/Whisper.pdf) |
+ | [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356) |  | '22 | STT | 김수 | [📎](data/Whisper.pdf) |
  | [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](https://arxiv.org/pdf/2201.07284.pdf) |  | '22 | Anomaly Detection | 임동주 | 📎 |
  | [논문제목](#) | 학회 | '연도 | 분야 | 발표자 | 발표자료 | 참고자료 |
