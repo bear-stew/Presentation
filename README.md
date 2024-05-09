@@ -22,4 +22,5 @@
  | [Neural Speech Synthesis with Transformer Network](https://arxiv.org/pdf/1809.08895.pdf) | AAAI | '19 | TTS | 임동주 | [📎](data/Neural_Speech_Synthesis_with_Transformer_Network.pdf) |
  | [Building robust Korean speech recognition model by fine-tuning large pretrained model](https://www.eksss.org/archive/view_article?doi=10.13064/KSSS.2023.15.3.075) | 한국음성학회지 | '23 | STT | 최갑주 | [📎](https://github.com/bear-stew/Presentation/blob/main/data/Korean%20speech%20recognition%20model%20by%20fine-tuning.pdf) |
  | [Make-A-Video: Text-to-Video Generation withou Text-Video Data](https://arxiv.org/abs/2209.14792) | | 22' | CV | 김나훈 | [📎](data/Make-A-Video.pdf) |
+ | [Structured Denoising Diffusion Models in Discrete State-Spaces (D3PM)](https://arxiv.org/abs/2107.03006) | NeurIPS | '21 | LG | 윤세환 | [📎](data/Structured%20Denoising%20Diffusion%20Models%20in%20Discrete%20State-Spaces.pdf) |  
  | [논문제목](#) | 학회 | '연도 | 분야 | 발표자 | 발표자료 | 참고자료 |
