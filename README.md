@@ -13,7 +13,7 @@
  | [Donut: Document Understanding Transformer without OCR](https://sangdooyun.github.io/data/kim2021donut.pdf) | ECCV | '22 | CV | 김나훈 | [📎](data/presentation_donut.pdf) | 
  | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper) | ICCV | '21 | CV | 임동주 | [📎](data/Swin%20Transformer.pdf) |
  | [Flamingo: A Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) | NeurIPS | '22 | NLP | 이하준 | [📎](data/flamingo.pdf)
- | [Mistral AI](https://arxiv.org/pdf/2310.06825.pdf) |  | '23 | NLP | 김수 | [📎](data/Mistral%207B.pdf) |
+ | [Mistral AI](https://arxiv.org/pdf/2310.06825.pdf) |  | '23 | NLP | 김수 | [📎](data/Mistral_7B.pdf) |
  | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084) | EMNLP | '19 | NLP | 임동주 | [📎](data/Sentence_Bert.pdf) |
  | [ODIN: Enhancing the Reliability of Out-of-Distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) | ICLR | '18 | OOD | 김나훈 | [📎](data/presentation_odin.pdf) | 
  | [Image Style Transfer using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html) | CVPR | '16 | CV | 윤세환 | [📎](data/Image%20Style%20Transfer%20Using%20Convolutional%20Neural%20Networks.pdf) | 
