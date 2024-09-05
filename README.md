@@ -37,4 +37,5 @@
   | [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/pdf/2109.10282) |  | '21 | CV | 김수 | [📎](data/Transformer%20OCR.pdf) |
  | [Masked Autoencoders as Spatiotemporal Learners](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e97d1081481a4017df96b51be31001d3-Abstract-Conference.html) | NeurIPS | '22 | CV, Video | 김나훈 | [📎](data/Maksed_Autoencoders_as_Spatiotemporal_Learners.pdf) | [1](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper) | 
  | [ReLU Strikes Back:Exploiting Activation Sparsity in Large Language Models](https://arxiv.org/pdf/2310.04564) | ICLR | '24 | LLM | 최갑주 | [📎](https://github.com/bear-stew/Presentation/blob/main/data/0808%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20(1).pptx) |
+ | [Make Yout LLM Fully Utilize the Context](https://arxiv.org/abs/2404.16811) | arXiv | '24 | LLM | 윤세환 | [📎](https://github.com/bear-stew/Presentation/blob/main/data/Make%20Your%20LLM%20Fully%20Utilize%20the%20Context.pdf) |
  | [논문제목](#) | 학회 | '연도 | 분야 | 발표자 | 발표자료 | 참고자료 |
