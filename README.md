@@ -1,3 +1,5 @@
+Notion : https://bearstew.notion.site/BearStew-Paper-Study-6aa195dfc3f84d849c4e63b12da689b9
+
 # Presentation
 
 
